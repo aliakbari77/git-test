@@ -19,3 +19,7 @@ function fixBugs() {
   // fix some bugs write by reza
   console.log("fix some bugs at applications");
 }
+
+function listApplications() {
+  console.log("this is list applicaions function");
+}
