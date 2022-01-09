@@ -1,5 +1,5 @@
 function test() {
-  let x = 3;
-  let y = 6;
-  console.log(x * y);
+  let z = 3;
+  let w = 6;
+  console.log(z * w);
 }
