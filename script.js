@@ -10,3 +10,7 @@ function fixMess() {
   messages.push(1);
   console.log(messages);
 }
+
+function fixList() {
+  console.log("fix the list of applications");
+}
