@@ -14,3 +14,8 @@ function fixMess() {
 function fixList() {
   console.log("fix the list of applications");
 }
+
+function fixBugs() {
+  // fix some bugs write by reza
+  console.log("fix some bugs at applications");
+}
