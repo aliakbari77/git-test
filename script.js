@@ -23,3 +23,7 @@ function fixBugs() {
 function listApplications() {
   console.log("this is list applicaions function");
 }
+
+function listPatches() {
+  console.log("this is list patches function");
+}
