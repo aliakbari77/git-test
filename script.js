@@ -31,3 +31,7 @@ function listPatches() {
 function getStatusOs(){
   console.log("this is get status os function.")
 }
+
+function getStatusApp(){
+  console.log("this is get status app function.")
+}
