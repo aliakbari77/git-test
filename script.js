@@ -27,3 +27,7 @@ function listApplications() {
 function listPatches() {
   console.log("this is list patches function");
 }
+
+function getStatusOs(){
+  console.log("this is get status os function.")
+}
